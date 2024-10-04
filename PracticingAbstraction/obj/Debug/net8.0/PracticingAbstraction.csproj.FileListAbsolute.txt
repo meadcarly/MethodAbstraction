@@ -1,0 +1,14 @@
+/Users/carlymead/Desktop/repos/PracticingAbstraction/PracticingAbstraction/bin/Debug/net8.0/PracticingAbstraction
+/Users/carlymead/Desktop/repos/PracticingAbstraction/PracticingAbstraction/bin/Debug/net8.0/PracticingAbstraction.deps.json
+/Users/carlymead/Desktop/repos/PracticingAbstraction/PracticingAbstraction/bin/Debug/net8.0/PracticingAbstraction.runtimeconfig.json
+/Users/carlymead/Desktop/repos/PracticingAbstraction/PracticingAbstraction/bin/Debug/net8.0/PracticingAbstraction.dll
+/Users/carlymead/Desktop/repos/PracticingAbstraction/PracticingAbstraction/bin/Debug/net8.0/PracticingAbstraction.pdb
+/Users/carlymead/Desktop/repos/PracticingAbstraction/PracticingAbstraction/obj/Debug/net8.0/PracticingAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlymead/Desktop/repos/PracticingAbstraction/PracticingAbstraction/obj/Debug/net8.0/PracticingAbstraction.AssemblyInfoInputs.cache
+/Users/carlymead/Desktop/repos/PracticingAbstraction/PracticingAbstraction/obj/Debug/net8.0/PracticingAbstraction.AssemblyInfo.cs
+/Users/carlymead/Desktop/repos/PracticingAbstraction/PracticingAbstraction/obj/Debug/net8.0/PracticingAbstraction.csproj.CoreCompileInputs.cache
+/Users/carlymead/Desktop/repos/PracticingAbstraction/PracticingAbstraction/obj/Debug/net8.0/PracticingAbstraction.dll
+/Users/carlymead/Desktop/repos/PracticingAbstraction/PracticingAbstraction/obj/Debug/net8.0/refint/PracticingAbstraction.dll
+/Users/carlymead/Desktop/repos/PracticingAbstraction/PracticingAbstraction/obj/Debug/net8.0/PracticingAbstraction.pdb
+/Users/carlymead/Desktop/repos/PracticingAbstraction/PracticingAbstraction/obj/Debug/net8.0/PracticingAbstraction.genruntimeconfig.cache
+/Users/carlymead/Desktop/repos/PracticingAbstraction/PracticingAbstraction/obj/Debug/net8.0/ref/PracticingAbstraction.dll
